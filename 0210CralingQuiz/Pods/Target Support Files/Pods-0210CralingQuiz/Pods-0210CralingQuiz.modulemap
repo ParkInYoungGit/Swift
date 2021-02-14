@@ -1,0 +1,6 @@
+framework module Pods_0210CralingQuiz {
+  umbrella header "Pods-0210CralingQuiz-umbrella.h"
+
+  export *
+  module * { export * }
+}
